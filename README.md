@@ -1,5 +1,5 @@
 # TextMe Application 
-This project is UI/US design for real-time chat application witch allows users to communicate with friends and family easily and confidentially. Users can also search and add friends to their contacts.
+This project is UI/UX design for real-time chat application that allows users to communicate with friends and family easily and confidentially. Users can also search and add friends to their contacts.
 
 
 
