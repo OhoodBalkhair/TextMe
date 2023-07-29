@@ -8,3 +8,7 @@ This project is UI/US design for real-time chat application witch allows users t
 
 
 [High Fidelity !](https://www.figma.com/file/4Ofo89Yyxu0bYxBYXU09DR/TextMe?type=design&node-id=95%3A4031&mode=design&t=No8PORckUVNcSUdi-1)
+
+
+
+[What about prototype?](https://drive.google.com/file/d/1F5ueHbDb8S6brIbC73McIb5MAzVHIFQd/view?usp=sharing)
